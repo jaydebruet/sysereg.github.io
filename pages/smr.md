@@ -4,25 +4,22 @@ title:
 permalink: /smr/
 ---
 
-# The Software Maintenance and Reuse (SMR) Lab
+# The Syntax and Semantics Research Group (SySeReG)
 
 
-The SMR lab at the University of Alberta is located in the Computing Science Center (CSC) room 2-59B, and is led by [Dr. Sarah Nadi](http://www.sarahnadi.org). At SMR, we develop automated techniques for improving software maintenance and resuse activities. Our work relies on mining software repositories to extract useful information that is used as a basis for providing decision support for developers. Our research can be summarized in the following keywords:
+The SySeReG at the University of Information Technology and Sciences is located in the Computer Science and Engineering (CSE) Floor 9, and is led by [Mr. Habibur Rahman](http://www.habibrahman.me) and [Mr. Jaydeb Sarker](http://www.habibrahman.me). At SySeReG, we develop automated techniques for improving natural language processing activities. Our work relies on NLP to extract useful information that is used as a basis for providing decision support. Our research can be summarized in the following keywords:
 
-![Software Maintenance and Reuse Lab]({{ "/resources/images/logo_web_color_2400_frame_transparent.png" }}){: .group-logo } 
+![Syntax and Semantics Research Group]({{ "/resources/images/sysereg-logo2.png" }}){: .group-logo } 
 
+* Natural Language Processing
+* Natural Language Understanding
+* Sentiment and Semantic Analysis
 * Empirical Software Engineering
 * Mining Software Repositories
 * Software Library and API usage recommendations
-* API misuses
-* Highly configurable software & Software Product Lines
 * Software maintenance and evolution
 
-## Fun facts: 
 
-* We pronounce SMR as "summer". Yes, the pun is intended for Edmonton's "warm" weather... but even though Edmonton is cold in the winter, you will find our research topics exciting and our group warm and welcoming! Check out our [photo gallery](/smr/photo-gallery) for pics from some of our fun group events!
-
-* Our logo was designed by the talented [Sven Amann](http://sven-amann.de/)
 
 ## Group Information
 
@@ -41,5 +38,5 @@ The research we do could not be possible without the support of the following fu
 
 
 <div class="emph-border">       
- If you are interested in joining SMR, please read the <a href="{{ "/smr/join-smr" |  prepend: site.baseurl }}">following important information</a> before contacting Dr. Nadi.
+ If you are interested in joining SySeReG, please read the <a href="{{ "/smr/join-smr" |  prepend: site.baseurl }}">following important information</a> before contacting [Mr. Habibur Rahman](http://www.habibrahman.me).
  </div>
