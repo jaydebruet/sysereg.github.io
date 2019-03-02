@@ -1,2 +1,1 @@
-## SySeReG
-**Sy**ntax and **Se**mantic **Re**search **G**roup
+My personal website, based on http://jekyllthemes.org/themes/svm-ngvb/
