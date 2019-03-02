@@ -1,2 +1,2 @@
-# seregbd
-SEmantic REsearch Group
+## seregbd
+**SE**mantic **RE**search **G**roup
