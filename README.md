@@ -1,2 +1,2 @@
-## seregbd
-**SE**mantic **RE**search **G**roup
+## SySeReG
+**Sy**ntax and **SE**mantic **Re**search **G**roup
