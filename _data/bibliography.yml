@@ -1,10 +1,11 @@
-- id: ProkschSANER17
-  authors: Sebastian Proksch, Sarah Nadi, Sven Amann, and Mira Mezini
-  title: Enriching In-IDE Process Information with Fine-grained Source Code History
-  year: 2017
-  venue: IEEE International Conference on Software Analysis, Evolution, and Reengineering
-  collection-title: SANER '17
-  pdf: /resources/pubs/ProkschSANER17.pdf
+- id: walges19
+  type: paper-conference
+  authors: Habibur Rahman, Julia Rahman, and Asmaul Husna
+  title: WALGES: Weighted Probability Based Scoring Approach for Solving Arithmatic Word Problems using Semantic Parsing
+  year: 2019
+  venue: IEEE International Conference on Electrical, Computer and Communication Engineering
+  collection-title: WALGES '19
+  pdf: /resources/pubs/WALGES.pdf
 
 - id: ProkschASE2016
   authors: Sebastian Proksch, Sven Amann, Sarah Nadi, and Mira Mezini

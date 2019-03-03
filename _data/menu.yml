@@ -1,23 +1,28 @@
-- title: "Software Maintenance & Reuse Lab"
-  href: "/smr"
+- title: "RESEARCH"
+  href: "/research"
+
+- title: "PUBLICATIONS"
+  href: "/publications/"
+
+- title: "PEOPLE"
+  href: "/people/"
   subcategories:
-   - subtitle: "About"
-     subhref: "/smr"
-   - subtitle: "Members"
-     subhref: "/smr/members"
-   - subtitle: "Research"
-     subhref: "/smr/research"
-   - subtitle: "Publications"
-     subhref: "/smr/publications"
-   - subtitle: "Join SMR"
-     subhref: "/smr/join-smr"
+    - subtitle: "Members"
+      subhref: "/people/members"
+    - subtitle: "Students"
+      subhref: "/people/students"
+    - subtitle: "Alumni"
+      subhref: "/people/alumni"
 
-- title: "Teaching"
-  href: "/teaching/"
 
-- title: "Service"
-  href: "/service/"
+- title: "JOIN SySeReG"
+  href: "/join-sysereg"
 
-- title: "Misc."
-  href: "/misc/"
+- title: "NEWS & EVENTS"
+  href: "/news-and-events"
 
+- title: "BLOG"
+  href: "/blog/"
+
+- title: "RESOURCES"
+  href: "/resources"

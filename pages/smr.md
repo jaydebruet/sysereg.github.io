@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-permalink: /smr/
+permalink: /sysereg/
 ---
 
 # The Syntax and Semantics Research Group (SySeReG)
@@ -23,9 +23,9 @@ The SySeReG at the University of Information Technology and Sciences is located 
 
 ## Group Information
 
-* [Members](/smr/members)
-* [Projects](/smr/research)
-* [Publications](/smr/publications)
+* [Members](/people/members)
+* [Projects](/sysereg/research)
+* [Publications](/publications)
 
 ## Funding
 
