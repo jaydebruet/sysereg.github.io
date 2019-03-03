@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SySeReG Members
-permalink: /sysereg/members/
+permalink: /people/members/
 ---
 
 # Members of the Syntax and Semantics Research Group

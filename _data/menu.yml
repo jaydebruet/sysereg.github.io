@@ -1,15 +1,28 @@
-- title: "Research"
+- title: "RESEARCH"
   href: "/research"
 
-- title: "Publications"
+- title: "PUBLICATIONS"
   href: "/publications/"
 
-- title: "Members"
-  href: "/members/"
+- title: "PEOPLE"
+  href: "/people/"
+  subcategories:
+    - subtitle: "Members"
+      subhref: "/people/members"
+    - subtitle: "Students"
+      subhref: "/people/students"
+    - subtitle: "Alumni"
+      subhref: "/people/alumni"
 
-- title: "Join SySeReG"
+
+- title: "JOIN SySeReG"
   href: "/join-sysereg"
 
-- title: "About"
-  href: "/about/"
+- title: "NEWS & EVENTS"
+  href: "/news-and-events"
 
+- title: "BLOG"
+  href: "/blog/"
+
+- title: "RESOURCES"
+  href: "/resources"

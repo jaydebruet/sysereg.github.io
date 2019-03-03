@@ -1,12 +1,12 @@
 ---
 layout: page
 title:
-permalink: /smr/join-smr/
+permalink: /join-sysereg/
 ---
 
 <a name="prospective"></a>
 
-# Interested in Joining SMR?
+# Interested in Joining SySeReG?
 
 The following information is important for prospective students.
 
