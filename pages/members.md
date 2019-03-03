@@ -1,30 +1,12 @@
 ---
 layout: page
-title: SMR Members
-permalink: /smr/members/
+title: SySeReG Members
+permalink: /sysereg/members/
 ---
 
-# Members of the Software Maintenance and Reuse Lab
+# Members of the Syntax and Semantics Research Group
 
 
-<h3>Faculty Members</h3>
+<h3>Members</h3>
 
-{% include filteredmembers-status.html position="Faculty" status="current" %}
-
-
-<h3>Current PhD Students</h3>
-
-{% include filteredmembers-status.html position="PhD" status="current" %} 
-
-<h3>Current Master's Students</h3>
-
-{% include filteredmembers-status.html position="MSc." status="current" %} 
-
-<h3> Current Undergraduate Students</h3>
-
-{% include filteredmembers-status.html position="Undergrad RA" status="current" %} 
-
-
-<h3>SMR Alumni </h3>
-
-{% include filteredmembers-status.html status="previous" %} 
+{% include filteredmembers-status.html position="Members" status="current" %}
